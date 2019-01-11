@@ -53,5 +53,7 @@ class in CompositionRoot only and let it define dependencies to be resolved late
 it with everything (for example hotswap).
 
 I give no guarantee that any of that code should work nor will be held responsible for any damages that it may cause.
-Code is delivered free of charge as it is. Use it anyway you like, share this simple solution awesomeness and
+Code is delivered free of charge as it is. For details regarding licensing this code see provided license file.
+
+Use it anyway you like, share this simple solution awesomeness and
 promote (but also challenge) clean code ideas like Screaming Architecture wherever you go ;) .
