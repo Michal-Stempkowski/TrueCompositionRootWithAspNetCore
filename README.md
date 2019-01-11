@@ -7,7 +7,7 @@ It is important part of creating creating so called Clean Architecture / Screami
 Description of this architecture can be found for example here: [Robert C. Martin's blog entry](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 
 
-![Example UML](https://yuml.me/diagram/scruffy/class/[User Interface A]->[ApplicationCore],[User Interface B]->[ApplicationCore],[Backend Infrastructure X]->[ApplicationCore],[Backend Infrastructure Y]->[ApplicationCore],[Main Component]->[Backend Infrastructure Y],[Main Component]->[Backend Infrastructure X],[Main Component]->[User Interface A],[Main Component]->[User Interface B],[Main Component]->[ApplicationCore])
+![Example UML](https://yuml.me/diagram/scruffy/class/[User%20Interface%20A]->[ApplicationCore],[User%20Interface%20B]->[ApplicationCore],[Backend%20Infrastructure%20X]->[ApplicationCore],[Backend%20Infrastructure%20Y]->[ApplicationCore],[Main%20Component]->[Backend%20Infrastructure%20Y],[Main%20Component]->[Backend%20Infrastructure%20X],[Main%20Component]->[User%20Interface%20A],[Main%20Component]->[User%20Interface%20B],[Main%20Component]->[ApplicationCore])
 
 
 ## Problem to be solved
