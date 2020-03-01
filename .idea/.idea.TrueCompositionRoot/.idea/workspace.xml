@@ -2,105 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975a4c04-d85f-40b6-b141-155168e24413" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TrueCompositionRoot/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondCompositionRoot/NonUiDependencyRegistry.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondCompositionRoot/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondCompositionRoot/SecondCompositionRoot.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrueCompositionRoot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrueCompositionRoot/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TrueCompositionRoot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrueCompositionRoot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositionRoot/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositionRoot/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueCompositionRoot.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TrueCompositionRoot.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/wwwroot/js/site.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CompositionRoot/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-              <folding>
-                <marker date="1547160084340" expanded="false" signature="6:142" ph="..." />
-                <marker date="1547160084340" expanded="true" signature="169:1243" ph="{...}" />
-                <marker date="1547160084340" expanded="true" signature="189:1241" ph="{...}" />
-                <marker date="1547160084340" expanded="true" signature="235:604" ph="{...}" />
-                <marker date="1547160084340" expanded="true" signature="657:972" ph="{...}" />
-                <marker date="1547160084340" expanded="true" signature="1020:1235" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApp/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="26" selection-end-column="39" />
-              <folding>
-                <marker date="1547159688145" expanded="false" signature="6:142" ph="..." />
-                <marker date="1547159688145" expanded="true" signature="160:907" ph="{...}" />
-                <marker date="1547159688145" expanded="true" signature="187:905" ph="{...}" />
-                <marker date="1547159688145" expanded="true" signature="240:341" ph="{...}" />
-                <marker date="1547159688145" expanded="true" signature="451:734" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CompositionRoot/NonUiDependencyRegistry.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <marker date="1547152125809" expanded="false" signature="6:61" ph="..." />
-                <marker date="1547152125809" expanded="true" signature="88:328" ph="{...}" />
-                <marker date="1547152125809" expanded="true" signature="158:326" ph="{...}" />
-                <marker date="1547152125809" expanded="true" signature="256:320" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Infrastructure B</find>
-      <find />
-    </findStrings>
-    <replaceStrings>
-      <replace>Infrastructure Y</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/c0/fca528c6/RuntimeAssembly.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D7B179-60C3-4BC2-BBD0-ED51E837B304/c0/e803c11d/WebHost.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/292/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SecondCompositionRoot/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6AC88FF9-9817-4BE7-8F0D-6AB05B5F222B/03/8bd28f02/WebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CompositionRoot/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Datalayer/ConcreteRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Datalayer/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CompositionRoot/NonUiDependencyRegistry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CoreApplication/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/INonUiDependencyRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CompositionRoot/NonUiDependencyRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D7B179-60C3-4BC2-BBD0-ED51E837B304/c0/e803c11d/WebHost.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CompositionRoot/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoreApplication/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/305E0ACC-0CBA-41EB-86AA-2E144E584B26/a0/73c30e88/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Datalayer/ConcreteRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SecondCompositionRoot/NonUiDependencyRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/c0/fca528c6/RuntimeAssembly.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Datalayer/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1EDABACE-10B8-4A86-8DAF-F46F97873F4F/5c/f1573d16/WebHost.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SecondCompositionRoot/obj/Debug/netcoreapp2.1/SecondCompositionRoot.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,75 +57,71 @@
         <option value="$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/WebApp/Program.cs" />
-        <option value="$PROJECT_DIR$/CompositionRoot/Program.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CompositionRoot/Program.cs" />
+        <option value="$PROJECT_DIR$/SecondCompositionRoot/NonUiDependencyRegistry.cs" />
+        <option value="$PROJECT_DIR$/SecondCompositionRoot/Program.cs" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/js/site.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3889" />
-    <option name="y" value="-30" />
-    <option name="width" value="1552" />
-    <option name="height" value="848" />
-  </component>
+  <component name="ProjectId" id="1YHqhPtvP3G9KbX2PrSeH7or8jA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TrueCompositionRoot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TrueCompositionRoot" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CompositionRoot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Publish to folder.Publish CompositionRoot to folder">
     <configuration name="Publish CompositionRoot to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
       <riderPublish target_folder="C:/false_inetpub/TrueCompositeRoot" target_framework="netcoreapp2.1" uuid_high="758275074301380901" uuid_low="-6681084427779650119" />
       <method v="2" />
     </configuration>
+    <configuration name="SecondCompositionRoot" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SecondCompositionRoot/bin/Debug/netcoreapp2.1/SecondCompositionRoot.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SecondCompositionRoot" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SecondCompositionRoot/SecondCompositionRoot.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" start="true" with-js-debugger="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="DotNetProject" factoryName=".NET Project" nameIsGenerated="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/CompositionRoot/bin/Debug/netcoreapp2.1/CompositionRoot.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompositionRoot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompositionRoot/bin/Debug/netcoreapp2.1" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs>
         <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
@@ -199,10 +136,13 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
-      <browser url="http://localhost:5000" />
+      <browser url="http://localhost:5000" start="true" with-js-debugger="true" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="SecondCompositionRoot JavaScript" type="JavascriptDebugType" uri="http://localhost:5000" useFirstLineBreakpoints="true">
+      <method v="2" />
     </configuration>
     <configuration name="WebApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApp/WebApp.csproj" />
@@ -211,6 +151,10 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="0" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="0" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -218,8 +162,22 @@
     <list>
       <item itemvalue=".NET Launch Settings Profile.WebApp" />
       <item itemvalue=".NET Project.Unnamed" />
+      <item itemvalue=".NET Project.SecondCompositionRoot" />
+      <item itemvalue="JavaScript Debug.SecondCompositionRoot JavaScript" />
       <item itemvalue="Publish to folder.Publish CompositionRoot to folder" />
     </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -233,7 +191,11 @@
       <updated>1547146165658</updated>
       <workItem from="1547146167162" duration="8614000" />
       <workItem from="1547160468215" duration="740000" />
-      <workItem from="1547161253846" duration="4958000" />
+      <workItem from="1547161253846" duration="5530000" />
+      <workItem from="1562412583887" duration="650000" />
+      <workItem from="1582609997846" duration="164000" />
+      <workItem from="1583092212985" duration="2363000" />
+      <workItem from="1583094811883" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Composition root implements Main component role, while MVC underneath knows only about UI (and ApplicationCore of course)">
       <created>1547161005369</created>
@@ -256,65 +218,159 @@
       <option name="project" value="LOCAL" />
       <updated>1547165610355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README.md - small corrections">
+      <created>1547166656435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547166656435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14312000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="3832" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06289978" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="REST Client" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="16" visible="true" weight="0.32936078" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit - Composition root implements Main component role, while MVC underneath knows only about UI (and ApplicationCore of course)" />
     <MESSAGE value="Added README.md" />
     <MESSAGE value="README.md - corrected link spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md - corrected link spaces" />
+    <MESSAGE value="README.md - small corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md - small corrections" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583095053434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583095053434" />
+    <state x="2334" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094396137" />
+    <state x="2627" y="367" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1583094057754">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2627" y="367" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094057754" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290907" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290907" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290906" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290907" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094297292" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094297292" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1583094997865">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997865" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094297292" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094297292" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right" timestamp="1583094997866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094997866" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.4.bottom" timestamp="1583094967372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.4.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094967372" />
+    <state width="1877" height="347" key="GridCell.Tab.4.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.4.center" timestamp="1583094967372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.4.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094967372" />
+    <state width="1877" height="347" key="GridCell.Tab.4.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.4.left" timestamp="1583094967372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.4.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094967372" />
+    <state width="1877" height="347" key="GridCell.Tab.4.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state width="1877" height="347" key="GridCell.Tab.4.right" timestamp="1583094967372">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.4.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1583094967372" />
+    <state width="1877" height="347" key="GridCell.Tab.4.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583094290800" />
+    <state x="2472" y="253" key="Rider.ProjectTemplateDialog.Size" timestamp="1583093074923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583093074923" />
+    <state x="2545" y="252" width="669" height="536" key="find.popup" timestamp="1583093903219">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2545" y="252" width="669" height="536" key="find.popup/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583093903219" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -336,218 +392,12 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebApp/wwwroot/js/site.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6AC88FF9-9817-4BE7-8F0D-6AB05B5F222B/03/8bd28f02/WebHostBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D7B179-60C3-4BC2-BBD0-ED51E837B304/c0/e803c11d/WebHost.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="94" column="16" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/c0/fca528c6/RuntimeAssembly.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="394" column="8" selection-start-line="394" selection-start-column="8" selection-end-line="394" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1EDABACE-10B8-4A86-8DAF-F46F97873F4F/5c/f1573d16/WebHost.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="157" column="256" selection-start-line="157" selection-start-column="256" selection-end-line="157" selection-end-column="256" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreApplication/IRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <marker date="1547150285606" expanded="true" signature="40:127" ph="{...}" />
-            <marker date="1547150285606" expanded="true" signature="75:125" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/INonUiDependencyRegistry.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
-          <folding>
-            <marker date="1547152063096" expanded="true" signature="65:213" ph="{...}" />
-            <marker date="1547152063096" expanded="true" signature="113:211" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datalayer/ConcreteRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <marker date="1547150285588" expanded="false" signature="6:36" ph="..." />
-            <marker date="1547150285588" expanded="true" signature="57:226" ph="{...}" />
-            <marker date="1547150285588" expanded="true" signature="118:224" ph="{...}" />
-            <marker date="1547150285588" expanded="true" signature="168:218" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datalayer/ServiceCollectionExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-          <folding>
-            <marker date="1547152063092" expanded="true" signature="6:39" ph="..." />
-            <marker date="1547152063092" expanded="true" signature="165:418" ph="{...}" />
-            <marker date="1547152063092" expanded="true" signature="219:416" ph="{...}" />
-            <marker date="1547152063092" expanded="true" signature="313:410" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
-          <folding>
-            <marker date="1547152509732" expanded="false" signature="6:363" ph="..." />
-            <marker date="1547152509732" expanded="true" signature="381:2252" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="408:2250" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="594:721" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="944:1474" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="1017:1294" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="1662:2244" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="1709:1786" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="1803:1918" ph="{...}" />
-            <marker date="1547152509732" expanded="true" signature="2061:2232" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-          <folding>
-            <marker date="1547152708202" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1547152708202" expanded="true" signature="43:2423" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="134:377" ph="&lt;ol.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="382:1966" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="434:896" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="556:881" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="617:862" ph="&lt;p.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="688:841" ph="&lt;a.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="905:1418" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1026:1403" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1087:1384" ph="&lt;p.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1210:1363" ph="&lt;a.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1427:1955" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1550:1940" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1611:1921" ph="&lt;p.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1747:1900" ph="&lt;a.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="1971:2192" ph="&lt;a.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2197:2416" ph="&lt;a.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2425:4712" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2447:2704" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2512:2693" ph="&lt;ul.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2709:3382" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="2764:3371" ph="&lt;ul.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="3387:4270" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="3444:4259" ph="&lt;ul.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="4275:4705" ph="&lt;div.../&gt;" />
-            <marker date="1547152708202" expanded="true" signature="4340:4694" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <marker date="1547152823355" expanded="false" signature="6:198" ph="..." />
-            <marker date="1547152823355" expanded="true" signature="228:1301" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="275:1299" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="386:444" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="490:642" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="680:800" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="840:944" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="984:1031" ph="{...}" />
-            <marker date="1547152823355" expanded="true" signature="1162:1293" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompositionRoot/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/WebApp/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <marker date="1547159688145" expanded="false" signature="6:142" ph="..." />
-            <marker date="1547159688145" expanded="true" signature="160:907" ph="{...}" />
-            <marker date="1547159688145" expanded="true" signature="187:905" ph="{...}" />
-            <marker date="1547159688145" expanded="true" signature="240:341" ph="{...}" />
-            <marker date="1547159688145" expanded="true" signature="451:734" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompositionRoot/NonUiDependencyRegistry.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1547152125809" expanded="false" signature="6:61" ph="..." />
-            <marker date="1547152125809" expanded="true" signature="88:328" ph="{...}" />
-            <marker date="1547152125809" expanded="true" signature="158:326" ph="{...}" />
-            <marker date="1547152125809" expanded="true" signature="256:320" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompositionRoot/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding>
-            <marker date="1547160084340" expanded="false" signature="6:142" ph="..." />
-            <marker date="1547160084340" expanded="true" signature="169:1243" ph="{...}" />
-            <marker date="1547160084340" expanded="true" signature="189:1241" ph="{...}" />
-            <marker date="1547160084340" expanded="true" signature="235:604" ph="{...}" />
-            <marker date="1547160084340" expanded="true" signature="657:972" ph="{...}" />
-            <marker date="1547160084340" expanded="true" signature="1020:1235" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

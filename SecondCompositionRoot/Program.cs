@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using WebApp;
 
-namespace CompositionRoot
+namespace SecondCompositionRoot
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

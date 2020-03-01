@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalayer", "Datalayer\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApplication", "CoreApplication\CoreApplication.csproj", "{AE7BE50A-19E2-4CB6-AD4A-20F59F67DC42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondCompositionRoot", "SecondCompositionRoot\SecondCompositionRoot.csproj", "{5A3A5E15-485B-4BC2-A101-EE92D4F9A455}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{AE7BE50A-19E2-4CB6-AD4A-20F59F67DC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE7BE50A-19E2-4CB6-AD4A-20F59F67DC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE7BE50A-19E2-4CB6-AD4A-20F59F67DC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3A5E15-485B-4BC2-A101-EE92D4F9A455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3A5E15-485B-4BC2-A101-EE92D4F9A455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3A5E15-485B-4BC2-A101-EE92D4F9A455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3A5E15-485B-4BC2-A101-EE92D4F9A455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\_projects\TrueCompositionRoot" t="IncludeFlat">
-      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="CompositionRoot" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CompositionRoot.csproj" t="IncludeRecursive" />
@@ -42,6 +41,21 @@
         <e p="ServiceCollectionExtensions.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="SecondCompositionRoot" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NonUiDependencyRegistry.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="SecondCompositionRoot.AssemblyInfo.cs" t="Include" />
+              <e p="SecondCompositionRoot.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include" />
+        <e p="SecondCompositionRoot.csproj" t="IncludeRecursive" />
+      </e>
       <e p="TrueCompositionRoot.sln" t="IncludeFlat" />
       <e p="WebApp" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
@@ -58,6 +72,7 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
               <e p="WebApp.AssemblyInfo.cs" t="Include" />
+              <e p="WebApp.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -156,7 +171,7 @@
         </e>
       </e>
     </e>
-    <e p="C:\Users\Dell\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Dell\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TrueCompositionRoot.484551058.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dell\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dell\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TrueCompositionRoot.484551058.00" t="ExcludeRecursive" />
   </component>
 </project>
