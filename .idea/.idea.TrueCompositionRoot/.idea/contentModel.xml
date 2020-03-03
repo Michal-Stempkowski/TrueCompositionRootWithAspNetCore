@@ -8,7 +8,7 @@
         <e p="NonUiDependencyRegistry.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.1" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="CompositionRoot.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -21,7 +21,7 @@
         <e p="IRepository.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.1" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="CoreApplication.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -33,7 +33,7 @@
         <e p="Datalayer.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.1" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="Datalayer.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -46,9 +46,8 @@
         <e p="NonUiDependencyRegistry.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.1" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="SecondCompositionRoot.AssemblyInfo.cs" t="Include" />
-              <e p="SecondCompositionRoot.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -70,7 +69,7 @@
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.1" t="Include">
+            <e p="netcoreapp3.1" t="Include">
               <e p="WebApp.AssemblyInfo.cs" t="Include" />
               <e p="WebApp.RazorAssemblyInfo.cs" t="Include" />
             </e>
