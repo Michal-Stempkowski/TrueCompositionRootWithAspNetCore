@@ -1,7 +1,6 @@
 ﻿using System.IO;
-using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using WebApp;
 
 namespace CompositionRoot
@@ -11,11 +10,9 @@ namespace CompositionRoot
         static void Main(string[] args)
         {
             MoveToProperDirectory();
-            WebHost
+            Host
                 .CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .ConfigureServices(services => services.AddSingleton<INonUiDependencyRegistry>(
-                    provider => new NonUiDependencyRegistry()))
+                .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); })
                 .Build()
                 .Run();
         }
